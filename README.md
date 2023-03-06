@@ -13,4 +13,4 @@ Our project helps users to organize their files by moving them into appropriate 
 
 
 # About us!
-For more details [click here]([url](https://docs.google.com/document/d/1E91XPVXHxXyZ-OWF0eftyTd6qWL9mtWZ/edit?usp=sharing&ouid=108009743085050853761&rtpof=true&sd=true)).
+For more details [click here](https://docs.google.com/document/d/1E91XPVXHxXyZ-OWF0eftyTd6qWL9mtWZ/edit?usp=sharing&ouid=108009743085050853761&rtpof=true&sd=true).
