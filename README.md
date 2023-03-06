@@ -3,10 +3,14 @@ A file organizer can become very messy when a folder is full of different types 
 The Folder Wise File Organizer script is a simple and efficient tool that can save users a lot of time and effort in organizing their files. It can be easily customized to meet the specific needs of the user, and because of its dictionary of various file types it ensures that all files in the specified root folder are organized. 
 Our project helps users to organize their files by moving them into appropriate folders based on their file types. This can be particularly useful for users who have a large number of files scattered across various locations on their computer and are looking for an easy way to sort and organize them.
 
-# Screenshot
+# Result of this Project!!
 
-Before
+***Before***   
 ![Screenshot (398)](https://user-images.githubusercontent.com/100034876/223042116-2db4e4d8-d0e3-408a-86f4-afddd83625f4.png)
 
-After
+***After*** 
 ![Screenshot (399)](https://user-images.githubusercontent.com/100034876/223042136-45261cc5-348f-4278-8775-83229eb3b0b4.png)
+
+
+# About us!
+For more details [click here]([url](https://docs.google.com/document/d/1E91XPVXHxXyZ-OWF0eftyTd6qWL9mtWZ/edit?usp=sharing&ouid=108009743085050853761&rtpof=true&sd=true)).
